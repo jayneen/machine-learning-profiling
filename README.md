@@ -18,5 +18,5 @@ An ensemble of machine learning models that utilize different information modali
 ### Running Instructions:
 1) Provide a sample data set and change the directory path in the script to match its location.
 2) Change the output path to the desired location.
-3) Run the image training model or ensure an existing one is saved at the specified location.
+3) If running the ensemble or the image script, run an image training model or ensure an existing one is saved in the location specified in code.
 4) Run the script with the command: python3 main.py
