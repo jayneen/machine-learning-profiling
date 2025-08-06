@@ -1,5 +1,6 @@
 # machine-learning-profiling
-An ensemble of machine learning models that utilize different information modalities to profile dataset users' sex, age range, and personality scores. While the ensemble outputs all modality results, the subdirectories include individual scripts for each input modality used. Dataset used for testing is not provided.
+### Description:
+An ensemble of machine learning models that trains on images, likes, and text data to profile dataset users' sex, age range, and personality scores with techniques like neural networks, naive bayes, linear regressions, and knn. While the ensemble outputs all modality results, the subdirectories include individual scripts for each input modality used. Dataset used for testing is not provided.
 
 ### Collaborators:
 - Emily Zapata
